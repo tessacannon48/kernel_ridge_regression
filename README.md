@@ -56,12 +56,6 @@ Implemented:
    ```
 4. Run the cells in order to execute the analysis and train the models.
 
-## Improvements Made
-1. Cleaned and formatted the code for readability.
-2. Removed coursework-specific instructions and personal identifiers.
-3. Structured outputs for better interpretation.
-4. Added detailed comments to explain each step of the process.
-
 ## Notes
 - This repository showcases my approach to solving the coursework problems.
 - Original coursework-related details (e.g., specific instructions and TA contact information) have been removed for professional presentation.
