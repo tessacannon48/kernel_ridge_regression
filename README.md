@@ -13,6 +13,7 @@ root/
 ├── README.md         # This file
 ├── notebook.ipynb    # Jupyter notebook containing code and analysis
 ├── lectures_dataset.csv  # Dataset used in the analysis
+├── requirements.txt  # Requirements file to pip install 
 ```
 
 ## Key Components
