@@ -1,0 +1,7 @@
+pandas
+numpy
+ipython
+missingno
+matplotlib
+seaborn
+scikit-learn
