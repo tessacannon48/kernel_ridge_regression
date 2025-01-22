@@ -13,8 +13,6 @@ root/
 ├── README.md         # This file
 ├── notebook.ipynb    # Jupyter notebook containing code and analysis
 ├── lectures_dataset.csv  # Dataset used in the analysis
-├── features_final.csv    # Preprocessed features for modeling
-├── labels_final.npy      # Preprocessed labels for modeling
 ```
 
 ## Key Components
